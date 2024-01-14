@@ -11,7 +11,8 @@ Repository Contents:
   -  PowerPoint Presentation: Explore a comprehensive overview of the project, methodologies, and key findings through the accompanying presentation.
   -  Scanned Documents: Access scanned copies of the final project guidelines, providing insight into the project's scope and requirements.
   - Datasets: Find the datasets used for stock analysis, facilitating transparency and reproducibility in your exploration of the project.
-  - Python Forecasting Algorithm: Delve into the core of the project with the Python codebase, showcasing the implementation of the forecasting algorithm. It includes compelling data visualizations of the stock prices. 
+  - Python Forecasting Algorithm: Delve into the core of the project with the Python codebase, showcasing the implementation of the forecasting algorithm. It includes compelling data visualizations of the stock prices.
+    
 Approach:
 While the end results may not have yielded substantial profits, my approach was grounded in a well-studied methodology. By adopting a conservative stance and diversifying investments, the objective was to minimize risk while still generating consistent returns.
 
