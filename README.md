@@ -15,3 +15,4 @@ Repository Contents:
 Approach:
 While the end results may not have yielded substantial profits, my approach was grounded in a well-studied methodology. By adopting a conservative stance and diversifying investments, the objective was to minimize risk while still generating consistent returns.
 
+<img width="902" alt="Screenshot 2024-01-14 at 2 02 23 PM" src="https://github.com/lynn511/Economy-in-Data-Science/assets/80981292/384c8ccd-9fbd-4bcb-899e-970fd3768010">
